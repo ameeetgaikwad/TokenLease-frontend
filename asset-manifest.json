@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/TokenLease-frontend/static/css/main.0339b2d6.css",
-    "main.js": "/TokenLease-frontend/static/js/main.e6f98769.js",
+    "main.js": "/TokenLease-frontend/static/js/main.fa214e97.js",
     "static/js/775.e7a3bc60.chunk.js": "/TokenLease-frontend/static/js/775.e7a3bc60.chunk.js",
     "static/js/108.a08b0f21.chunk.js": "/TokenLease-frontend/static/js/108.a08b0f21.chunk.js",
     "static/js/787.c1112931.chunk.js": "/TokenLease-frontend/static/js/787.c1112931.chunk.js",
     "static/media/TokenLease.png": "/TokenLease-frontend/static/media/TokenLease.b413be4817a0ba15d997.png",
     "index.html": "/TokenLease-frontend/index.html",
     "main.0339b2d6.css.map": "/TokenLease-frontend/static/css/main.0339b2d6.css.map",
-    "main.e6f98769.js.map": "/TokenLease-frontend/static/js/main.e6f98769.js.map",
+    "main.fa214e97.js.map": "/TokenLease-frontend/static/js/main.fa214e97.js.map",
     "775.e7a3bc60.chunk.js.map": "/TokenLease-frontend/static/js/775.e7a3bc60.chunk.js.map",
     "108.a08b0f21.chunk.js.map": "/TokenLease-frontend/static/js/108.a08b0f21.chunk.js.map",
     "787.c1112931.chunk.js.map": "/TokenLease-frontend/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0339b2d6.css",
-    "static/js/main.e6f98769.js"
+    "static/js/main.fa214e97.js"
   ]
 }
